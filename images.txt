@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #docker:24.0.7-git
 #alpine:latest
-sonarqube:9.9.8-developer
+#sonarqube:9.9.8-developer
+postgres:16-alpine
