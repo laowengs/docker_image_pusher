@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #docker:24.0.7-git
-alpine:latest
+#alpine:latest
+sonarqube:9.9.8-developer
