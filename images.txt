@@ -9,5 +9,5 @@
 #sonarqube:9.9.8-community
 #postgres:16-alpine
 #busybox:1.27.1
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui-server:10.1.0
+#apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0
