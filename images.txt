@@ -10,4 +10,7 @@
 #postgres:16-alpine
 #busybox:1.27.1
 #apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui:10.1.0
+#apache/skywalking-ui:10.1.0
+apolloconfig/apollo-configservice:2.3.0
+apolloconfig/apollo-adminservice:2.3.0
+apolloconfig/apollo-portal:2.3.0
