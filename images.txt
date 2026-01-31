@@ -39,4 +39,5 @@
 # docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 # docker.elastic.co/kibana/kibana:8.14.3
 # downloads.unstructured.io/unstructured-io/unstructured-api:latest
-bitnamilegacy/kafka:3.6.1-debian-12-r13
+#bitnamilegacy/kafka:3.6.1-debian-12-r13
+provectuslabs/kafka-ui:v0.7.2
